@@ -8,7 +8,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/tristin7/hide-and-seek-game** and import
+* search for **https://github.com/msu-coders/hide-and-seek-game** and import
 
 ## Edit this project ![Build status badge](https://msu-coders.github.io/hide-and-seek-game/workflows/MakeCode/badge.svg)
 
